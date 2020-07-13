@@ -39,7 +39,7 @@ int main()
     
     
     ifstream inputFile;
-    inputFile.open("/Users/Arjun/Documents/C++/Projects/assign6_a_s1316/assign6_a_s1316/riders.txt");
+    inputFile.open("/Users/Archana/Documents/C++/Projects/assign6_a_s1316/assign6_a_s1316/riders.txt");
     inputFile >> limit;
     while (inputFile >> name >> size)
     {
