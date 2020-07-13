@@ -27,7 +27,7 @@ int main()
     string name;
     int count = 0;
     ifstream inputFile;
-    inputFile.open("/Users/Arjun/Documents/C++/Projects/Stack/Queue/Queue/riders.txt");
+    inputFile.open("/Users/Archana/Documents/C++/Projects/Stack/Queue/Queue/riders.txt");
     if(!inputFile)
     {
         cout << "Unable to open the file" << endl;
